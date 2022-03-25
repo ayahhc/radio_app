@@ -1,0 +1,56 @@
+{
+    "radios" : [
+        {
+            "id" :1,
+            "name" : "92.1",
+            "tagline" :"Suno Sunao, Life Banao",
+            "color" : "0xffa11431",
+            "desc" : "hello i am the new gaana",
+            "url" : "http://sc-bb.1.fm:8017/",
+            "image": "https://a10.gaanacdn.com/gn_img/albums/BZgWoQOK2d/ZgWoMoamK2/size_l.webp",
+            "lang" :"hindi",
+            "category" : "pop",
+            "disliked" : "false",
+            "order" :1
+                },
+                {
+                    "id" :2,
+                    "name" : "98.3",
+                    "tagline" :"Suno Sunao, Life Banao",
+                    "color" : "0xffa11431",
+                    "desc" : "hello i am the new gaana",
+                    "url" : "https://gaana.com/song/like-you-girl-feat-floria",
+                    "image" :"https://a10.gaanacdn.com/gn_img/albums/4Z9bqgo3yQ/Z9bqMPOJby/size_l.webp",
+                    "lang" :"hindi",
+                    "category" : "classic",
+                    "disliked" : "true",
+                    "order" :2
+                        },
+                        {
+                            "id" :3,
+                            "name" : "92.2",
+                            "tagline" :"Suno Sunao, Life Banao",
+                            "color" : "0xffa11431",
+                            "desc" : "hello i am the new gaana",
+                            "url" : "http://sc-bb.1.fm:8017/",
+                            "image": "https://a10.gaanacdn.com/gn_img/albums/BZgWoQOK2d/ZgWoMoamK2/size_l.webp",
+                            "lang" :"hindi",
+                            "category" : "hiphop",
+                            "disliked" : "false",
+                            "order" :3
+                                },
+                                {
+                                    "id" :4,
+                                    "name" : "92.9",
+                                    "tagline" :"Suno Sunao, Life Banao",
+                                    "color" : "0xffa11431",
+                                    "desc" : "hello i am the new gaana",
+                                    "url" : "http://sc-bb.1.fm:8017/",
+                                    "image": "https://a10.gaanacdn.com/gn_img/albums/BZgWoQOK2d/ZgWoMoamK2/size_l.webp",
+                                    "lang" :"hindi",
+                                    "category" : "party",
+                                    "disliked" : "false",
+                                    "order" :4
+                                        }
+    ] 
+}
